@@ -1,2 +1,2 @@
-# Linear-Regression
- CyberSoft Deep Learning Internal - Linear Regression
+# BÀI TẬP
+Dự đoán giá nhà bằng Linear Regression.
